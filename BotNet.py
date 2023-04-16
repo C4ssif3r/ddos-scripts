@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# Please do not copy! Or fork
+# if you lammer can fork it 😐😂🍴
+# Do not forget to change the variables to your desired variables
+# Think I didn't understand (don't tell anyone)
+# telegram id 🆔> @Zer0x00 MJi pwned 👾
 import socket
 import sys
 import threading
